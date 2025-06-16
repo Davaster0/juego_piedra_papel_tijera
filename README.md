@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Piedra, Papel o Tijera
 
  El usuario juega contra la computadora y se repite mientras el usuario quiera seguir jugando.
@@ -36,3 +37,6 @@ Video explicativo
 El video donde se explica el código, el funcionamiento del juego y el diagrama de flujo se encuentra en este enlace:
 
 [Ver video explicativo](https://...)
+=======
+# juego_piedra_papel_tijera
+>>>>>>> e7490c328653812baeccbe0fba8b4e8fedfac754
